@@ -1,0 +1,4 @@
+cut -f 3 alignment.sam | sort | uniq -c >> answers
+cut -f 4 alignment.sam | sort | uniq -c | sort >> answers
+
+grep SRR072*/t_data.ctab | awk '{if ($9 == "FBtr0331261"){sum += $12 ; sumsquares += ($12*$12)}} END {print "average: " sum/NR "standard deviation: " sqrt((1/NR)*((sumsquares) - ((sum*sum)/NR)))}' 
