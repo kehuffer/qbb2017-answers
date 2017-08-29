@@ -1,4 +1,4 @@
-<<<<<<< Local Changes
+// Part 1: cut -f 3 alignment.sam | sort | uniq -c >> answers
 5118470 *
    2 211000022278032
    2 211000022278047
@@ -1517,13 +1517,13 @@
    9 Y_mapped_Scaffold_9
 38321 dmel_mitochondrion_genome
 8013 rDNA
-   
-5118470 reads start at 0
-=======
-cut -f 3 alignment.sam | sort | uniq -c >> answers
-cut -f 4 alignment.sam | sort | uniq -c | sort >> answers
 
-paste SRR072*/t_data.ctab | fieldls = [12,24,36,48,60,72,84,96,108,120,132,144,156,168,180,192,204,216,228,240,252,264,276,288] cut -f fieldls| awk
+// Part 2: cut -f 4 alignment.sam | sort | uniq -c | sort >> answers
+
+5118470 reads start at 0
+
+// Part 3: cat SRR072*/t_data.ctab | grep FBtr0331261  | awk '{sum += $12 ; sumsquares += ($12^2); i += 1; print $0} END {print "average: " sum/i " standard deviation: " sqrt((1/i)*((sumsquares) - ((sum^2)/i)))}' >> ~/qbb2017-answers/day1-homework/answers
+
 23431	X	-	7084164	7092883	FBtr0331261	6	1515	FBgn0264270	Sxl	0.000000	0.000000
 23431	X	-	7084164	7092883	FBtr0331261	6	1515	FBgn0264270	Sxl	0.000000	0.000000
 23431	X	-	7084164	7092883	FBtr0331261	6	1515	FBgn0264270	Sxl	0.000000	0.000000
@@ -1549,3 +1549,5 @@ paste SRR072*/t_data.ctab | fieldls = [12,24,36,48,60,72,84,96,108,120,132,144,1
 23431	X	-	7084164	7092883	FBtr0331261	6	1515	FBgn0264270	Sxl	101.804230	124.908493
 23431	X	-	7084164	7092883	FBtr0331261	6	1515	FBgn0264270	Sxl	1.605047	2.409474
 average: 21.0987 standard deviation: 45.1703
+
+// Part 4: paste SRR072*/t_data.ctab | cut -f [12,24,36,48,60,72,84,96,108,120,132,144,156,168,180,192,204,216,228,240,252,264,276,288] | awk '{for (i = 1, i <= NF, i++){}}'
