@@ -14,7 +14,7 @@ for line in fh:
         continue
     else:
         if (line.split("\t")[2] == chromosome):
-            if ((line.split("\t")[3] >= start) and ((line.split("\t")[3] <= stop))):
+            if ((int(line.split("\t")[3]) >= start) and ((int(line.split("\t")[3]) <= stop))):
                 numlines += 1
         
 print "There are %s reads on chromosome 2L between positions 10000 and 20000, inclusive." % (str(numlines))
