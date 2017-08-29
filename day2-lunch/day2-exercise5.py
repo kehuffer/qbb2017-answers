@@ -14,5 +14,5 @@ for line in fh:
         MAPQsum += int(line.split("\t")[4])
         numlines += 1
         
-print "The average MAPQ score is %s." % (str(MAPQsum/numlines))
+print "The average MAPQ score is %s." % (str(float(MAPQsum/numlines)))
 
