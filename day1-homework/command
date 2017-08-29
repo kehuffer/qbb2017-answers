@@ -1,0 +1,15 @@
+// Part 1
+fastqc SRR072893.fastq
+
+// Part 2
+hisat2 -x BDGP6 SRR072893.fastq -p 1 -S alignment.sam
+
+// Part 3
+samtools sort -o sorted.bam alignment.sam
+samtools index sorted.bam
+
+// Part 4
+stringtie sorted.bam -p 4 -e -G BDGP6.Ensembl.81.gtf -o BDGP6output.gtf -B 
+
+// Part 5
+// Read through https://github.com/samtools/hts-specs
