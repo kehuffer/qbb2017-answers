@@ -93,11 +93,17 @@ for rat in ratio:
 
 plt.figure()
 plt.scatter(range(len(difference)), difference, c = custom_color)
+plt.xlabel("Codon")
+plt.ylabel("dN - dS")
+plt.suptitle("Difference")
 plt.savefig("difference.png")
 plt.close()
 
 plt.figure()
 plt.scatter(range(len(log_ratio)), log_ratio, c = custom_color_ratio)
+plt.xlabel("Codon")
+plt.ylabel("log ( dN / dS )")
+plt.suptitle("Ratio")
 plt.savefig("ratio.png")
 plt.close()
 
