@@ -1,0 +1,5 @@
+./blastn -query "./week1_query.fa" -evalue .0001 -max_target_seqs 1000 -db nr -remote -outfmt '6 sseqid sseq' -out "1000_homologues.tsv"
+less ./1000_homologues.tsv | awk -F '\t' '{ gsub(/-/, ""); print ">" $1 "\n" $2 }' > 1000_homologues.fa
+transeq 1000_homologues.fa 1000_homologues_prot.fa
+mafft 1000_homologues_prot.fa > alignment_prot.fa
+./realign.py "alignment_prot.fa" "1000_homologues.fa"
