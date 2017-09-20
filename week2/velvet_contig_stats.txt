@@ -1,0 +1,5 @@
+number of contigs:  311
+minimum contig length:  57
+maximum contig length:  998
+average contig length:  188
+N50:  261
