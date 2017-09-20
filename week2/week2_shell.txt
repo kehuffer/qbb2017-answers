@@ -1,0 +1,28 @@
+time velveth ./velveth_output 29 -fastq -shortPaired -separate reads_low_1.fastq reads_low_2.fastq 
+time velvetg ./velveth_output/
+./contig_stats.py ./velveth_output/contigs.fa > velvet_contig_stats.txt
+time lastz reference.fasta ./velveth_output/contigs.fa --chain --format=general:start1,end1,start2,end2,size2 > velvet_low_align.txt
+./dotplot.py velvet_low_align.txt "velvet_low_dotplot" "velvet Low Coverage"
+
+time spades.py --only-assembler -o ./spades_output -1 reads_low_1.fastq -2 reads_low_2.fastq 
+./contig_stats.py ./spades_output/contigs.fasta > spades_contig_stats.txt
+time lastz reference.fasta ./spades_output/contigs.fasta --chain --format=general:start1,end1,start2,end2,size2 > spades_low_align.txt
+./dotplot.py spades_low_align.txt "spades_low_dotplot" "SPAdes Low Coverage"
+
+time spades.py --only-assembler -o ./spades_output_nanpore -1 reads_low_1.fastq -2 reads_low_2.fastq --nanopore MAP006.subset.fa 
+./contig_stats.py ./spades_output_nanpore/contigs.fasta > spades_nanopore_contig_stats.txt
+time lastz reference.fasta ./spades_output_nanpore/contigs.fasta --chain --format=general:start1,end1,start2,end2,size2 > spades_nano_align.txt
+./dotplot.py spades_nano_align.txt "spades_nano_dotplot" "SPAdes with Nanopore"
+
+time velveth ./velveth_output_high 29 -fastq -shortPaired -separate reads_1.fastq reads_2.fastq 
+time velvetg ./velveth_output_high/
+./contig_stats.py ./velveth_output_high/contigs.fa > velvet_high_contig_stats.txt
+time lastz reference.fasta ./velveth_output_high/contigs.fa --chain --format=general:start1,end1,start2,end2,size2 > velvet_high_align.txt
+./dotplot.py velvet_high_align.txt "velvet_high_dotplot" "velvet High Coverage"
+
+time spades.py --only-assembler -o ./spades_output_high -1 reads_1.fastq -2 reads_2.fastq 
+./contig_stats.py ./spades_output_high/contigs.fasta > spades_high_contig_stats.txt
+time lastz reference.fasta ./spades_output_high/contigs.fasta --chain --format=general:start1,end1,start2,end2,size2 > spades_high_align.txt
+./dotplot.py spades_high_align.txt "spades_high_dotplot" "SPAdes High Coverage"
+
+time quast ./velveth_output/contigs.fa ./velveth_output_high/contigs.fa ./spades_output/contigs.fasta ./spades_output_high/contigs.fasta ./spades_output_nanpore/contigs.fasta -o ./quast_output -R reference.fasta 

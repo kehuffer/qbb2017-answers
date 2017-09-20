@@ -1,0 +1,64 @@
+velveth
+real	0m0.135s
+user	0m0.056s
+sys	0m0.061s
+
+velvetg
+real	0m0.039s
+user	0m0.026s
+sys	0m0.005s
+
+spades
+real	0m4.520s
+user	0m3.650s
+sys	0m1.022s
+
+lastz velvet
+real	0m1.047s
+user	0m0.951s
+sys	0m0.048s
+
+lastz spades
+real	0m0.972s
+user	0m0.914s
+sys	0m0.041s
+
+spades (with Nanopore)
+real	0m0.112s
+user	0m0.052s
+sys	0m0.024s
+
+lastz spades (with Nanopore)
+real	0m1.187s
+user	0m1.104s
+sys	0m0.047s
+
+velveth (high coverage)
+real	0m7.742s
+user	0m7.273s
+sys	0m0.401s
+
+velvetg (high coverage)
+real	0m15.302s
+user	0m14.892s
+sys	0m0.280s
+
+lastz velvet (high coverage)
+real	0m1.348s
+user	0m1.294s
+sys	0m0.042s
+
+spades (high coverage)
+real	0m49.686s
+user	1m51.057s
+sys	0m2.951s
+
+lastz spades (high coverage)
+real	0m1.409s
+user	0m1.339s
+sys	0m0.054s
+
+quast
+real	0m9.604s
+user	0m8.363s
+sys	0m0.513s
