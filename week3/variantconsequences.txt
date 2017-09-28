@@ -1,0 +1,164 @@
+This variant on chromosome III, position 310319 is an intergenic variant located less than 5Kb upstream of YCR102C, RDS1, and AAD3 genes, and 5Kb downstream of YCR102W-A, PAU3, and ADH7 genes.
+
+chrIII 310319 G [C] C|upstream_gene_variant|MODIFIER|YCR102C|YCR102C|transcript|YCR102C|protein_coding||c.-4852C>G|||||4852|
+chrIII 310319 G [C] C|upstream_gene_variant|MODIFIER|RDS1|YCR106W|transcript|YCR106W|protein_coding||c.-639G>C|||||639|
+chrIII 310319 G [C] C|upstream_gene_variant|MODIFIER|AAD3|YCR107W|transcript|YCR107W|protein_coding||c.-3571G>C|||||3571|
+chrIII 310319 G [C] C|downstream_gene_variant|MODIFIER|YCR102W-A|YCR102W-A|transcript|YCR102W-A|protein_coding||c.*3387G>C|||||3387|
+chrIII 310319 G [C] C|downstream_gene_variant|MODIFIER|PAU3|YCR104W|transcript|YCR104W|protein_coding||c.*2144G>C|||||2144|
+chrIII 310319 G [C] C|downstream_gene_variant|MODIFIER|ADH7|YCR105W|transcript|YCR105W|protein_coding||c.*164G>C|||||164|
+chrIII 310319 G [C] C|intergenic_region|MODIFIER|ADH7-RDS1|YCR105W-YCR106W|intergenic_region|YCR105W-YCR106W|||n.310319G>C||||||
+
+This variant on chromosome III, position 315795 is an intergenic variant located less than 5Kb downstream of RDS1, AAD3, and YCR108C.   
+
+chrIII 315795 T [C] C|downstream_gene_variant|MODIFIER|RDS1|YCR106W|transcript|YCR106W|protein_coding||c.*2339T>C|||||2339|
+chrIII 315795 T [C] C|downstream_gene_variant|MODIFIER|AAD3|YCR107W|transcript|YCR107W|protein_coding||c.*814T>C|||||814|
+chrIII 315795 T [C] C|downstream_gene_variant|MODIFIER|YCR108C|YCR108C|transcript|YCR108C|protein_coding||c.*202A>G|||||202|
+chrIII 315795 T [C] C|intergenic_region|MODIFIER|AAD3-YCR108C|YCR107W-YCR108C|intergenic_region|YCR107W-YCR108C|||n.315795T>C||||||
+
+This variant on chromosome VIII, position 211655 is a missense variant of the CIC1 gene.  It encodes a Leucine to Valine mutation at position 270, with moderate predicted impact.  
+It is located less than 5Kb upstream from YHR049C-A, YHR052W-A, and YHR054W-A genes and RUF5-1 and RUF5-2 lincRNAs, and 5Kb downstream of FSH1, SMF2 YHR050W-A, COX6, CUP1-1, YHR054C, CUP1-2, and RSC30 genes.
+
+chrVIII 211655 T [G] G|missense_variant|MODERATE|CIC1|YHR052W|transcript|YHR052W|protein_coding|1/1|c.808T>G|p.Leu270Val|808/1131|808/1131|270/376||
+chrVIII 211655 T [G] G|upstream_gene_variant|MODIFIER|YHR049C-A|YHR049C-A|transcript|YHR049C-A|protein_coding||c.-4125A>C|||||4125|
+chrVIII 211655 T [G] G|upstream_gene_variant|MODIFIER|RUF5-1|RUF5-1|transcript|RUF5-1|lincRNA||n.-754T>G|||||754|
+chrVIII 211655 T [G] G|upstream_gene_variant|MODIFIER|YHR052W-A|YHR052W-A|transcript|YHR052W-A|protein_coding||c.-855T>G|||||855|
+chrVIII 211655 T [G] G|upstream_gene_variant|MODIFIER|RUF5-2|RUF5-2|transcript|RUF5-2|lincRNA||n.-2752T>G|||||2752|
+chrVIII 211655 T [G] G|upstream_gene_variant|MODIFIER|YHR054W-A|YHR054W-A|transcript|YHR054W-A|protein_coding||c.-2853T>G|||||2853|
+chrVIII 211655 T [G] G|downstream_gene_variant|MODIFIER|FSH1|YHR049W|transcript|YHR049W|protein_coding||c.*4462T>G|||||4462|
+chrVIII 211655 T [G] G|downstream_gene_variant|MODIFIER|SMF2|YHR050W|transcript|YHR050W|protein_coding||c.*2352T>G|||||2352|
+chrVIII 211655 T [G] G|downstream_gene_variant|MODIFIER|YHR050W-A|YHR050W-A|transcript|YHR050W-A|protein_coding||c.*2010T>G|||||2010|
+chrVIII 211655 T [G] G|downstream_gene_variant|MODIFIER|COX6|YHR051W|transcript|YHR051W|protein_coding||c.*1504T>G|||||1504|
+chrVIII 211655 T [G] G|downstream_gene_variant|MODIFIER|CUP1-1|YHR053C|transcript|YHR053C|protein_coding||c.*880A>C|||||880|
+chrVIII 211655 T [G] G|downstream_gene_variant|MODIFIER|YHR054C|YHR054C|transcript|YHR054C|protein_coding||c.*1530A>C|||||1530|
+chrVIII 211655 T [G] G|downstream_gene_variant|MODIFIER|CUP1-2|YHR055C|transcript|YHR055C|protein_coding||c.*2878A>C|||||2878|
+chrVIII 211655 T [G] G|downstream_gene_variant|MODIFIER|RSC30|YHR056C|transcript|YHR056C|protein_coding||c.*3528A>C|||||3528|
+
+This variant on chromosome XII, position 460011 is an intergenic variant located less than 5Kb upstream of RDN25-1, RDN37-1, RDN58-1, and RDN18-1 rRNAs, and 5Kb downstream of TAR1, YLR154W-E, YLR154W-F, and YLR154C-G genes and RDN5-1, RDN25-2, RDN37-2, and RDN58-2 rRNAs.
+
+chrXII 460011 A [C] C|upstream_gene_variant|MODIFIER|RDN25-1|RDN25-1|transcript|RDN25-1|rRNA||n.-4830T>G|||||4830|
+chrXII 460011 A [C] C|upstream_gene_variant|MODIFIER|RDN37-1|RDN37-1|transcript|RDN37-1|rRNA||n.-2279T>G|||||2279|
+chrXII 460011 A [C] C|upstream_gene_variant|MODIFIER|RDN58-1|RDN58-1|transcript|RDN58-1|rRNA||n.-4440T>G|||||4440|
+chrXII 460011 A [C] C|upstream_gene_variant|MODIFIER|RDN18-1|RDN18-1|transcript|RDN18-1|rRNA||n.-2279T>G|||||2279|
+chrXII 460011 A [C] C|downstream_gene_variant|MODIFIER|TAR1|YLR154W-C|transcript|YLR154W-C|protein_coding||c.*4941A>C|||||4941|
+chrXII 460011 A [C] C|downstream_gene_variant|MODIFIER|YLR154W-E|YLR154W-E|transcript|YLR154W-E|protein_coding||c.*4375A>C|||||4375|
+chrXII 460011 A [C] C|downstream_gene_variant|MODIFIER|YLR154W-F|YLR154W-F|transcript|YLR154W-F|protein_coding||c.*3988A>C|||||3988|
+chrXII 460011 A [C] C|downstream_gene_variant|MODIFIER|RDN5-1|RDN5-1|transcript|RDN5-1|rRNA||n.*215A>C|||||215|
+chrXII 460011 A [C] C|downstream_gene_variant|MODIFIER|RDN25-2|RDN25-2|transcript|RDN25-2|rRNA||n.*912T>G|||||912|
+chrXII 460011 A [C] C|downstream_gene_variant|MODIFIER|RDN37-2|RDN37-2|transcript|RDN37-2|rRNA||n.*912T>G|||||912|
+chrXII 460011 A [C] C|downstream_gene_variant|MODIFIER|YLR154C-G|YLR154C-G|transcript|YLR154C-G|protein_coding||c.*2511T>G|||||2511|
+chrXII 460011 A [C] C|downstream_gene_variant|MODIFIER|RDN58-2|RDN58-2|transcript|RDN58-2|rRNA||n.*4540T>G|||||4540|
+chrXII 460011 A [C] C|intergenic_region|MODIFIER|RDN5-1-RDN25-2|RDN5-1-RDN25-2|intergenic_region|RDN5-1-RDN25-2|||n.460011A>C||||||
+
+This variant on chromosome XII, position 460477 is an intergenic variant located less than 5Kb upstream of RDN37-1, RDN58-1, and RDN18-1 rRNAs, and 5Kb downstream of YLR154W-E, YLR154W-F, and YLR154C-G genes and RDN5-1, RDN25-2, RDN37-2, RDN58-2, and RDN18-2 rRNAs.
+
+chrXII 460477 ATTTTTTTTC [ATTTTTTTC] ATTTTTTTC|upstream_gene_variant|MODIFIER|RDN37-1|RDN37-1|transcript|RDN37-1|rRNA||n.-2753delA|||||2753|
+chrXII 460477 ATTTTTTTTC [ATTTTTTTC] ATTTTTTTC|upstream_gene_variant|MODIFIER|RDN58-1|RDN58-1|transcript|RDN58-1|rRNA||n.-4914delA|||||4914|
+chrXII 460477 ATTTTTTTTC [ATTTTTTTC] ATTTTTTTC|upstream_gene_variant|MODIFIER|RDN18-1|RDN18-1|transcript|RDN18-1|rRNA||n.-2753delA|||||2753|
+chrXII 460477 ATTTTTTTTC [ATTTTTTTC] ATTTTTTTC|downstream_gene_variant|MODIFIER|YLR154W-E|YLR154W-E|transcript|YLR154W-E|protein_coding||c.*4849delT|||||4849|
+chrXII 460477 ATTTTTTTTC [ATTTTTTTC] ATTTTTTTC|downstream_gene_variant|MODIFIER|YLR154W-F|YLR154W-F|transcript|YLR154W-F|protein_coding||c.*4462delT|||||4462|
+chrXII 460477 ATTTTTTTTC [ATTTTTTTC] ATTTTTTTC|downstream_gene_variant|MODIFIER|RDN5-1|RDN5-1|transcript|RDN5-1|rRNA||n.*689delT|||||689|
+chrXII 460477 ATTTTTTTTC [ATTTTTTTC] ATTTTTTTC|downstream_gene_variant|MODIFIER|RDN25-2|RDN25-2|transcript|RDN25-2|rRNA||n.*438delA|||||438|
+chrXII 460477 ATTTTTTTTC [ATTTTTTTC] ATTTTTTTC|downstream_gene_variant|MODIFIER|RDN37-2|RDN37-2|transcript|RDN37-2|rRNA||n.*438delA|||||438|
+chrXII 460477 ATTTTTTTTC [ATTTTTTTC] ATTTTTTTC|downstream_gene_variant|MODIFIER|YLR154C-G|YLR154C-G|transcript|YLR154C-G|protein_coding||c.*2037delA|||||2037|
+chrXII 460477 ATTTTTTTTC [ATTTTTTTC] ATTTTTTTC|downstream_gene_variant|MODIFIER|RDN58-2|RDN58-2|transcript|RDN58-2|rRNA||n.*4066delA|||||4066|
+chrXII 460477 ATTTTTTTTC [ATTTTTTTC] ATTTTTTTC|downstream_gene_variant|MODIFIER|RDN18-2|RDN18-2|transcript|RDN18-2|rRNA||n.*4585delA|||||4585|
+chrXII 460477 ATTTTTTTTC [ATTTTTTTC] ATTTTTTTC|intergenic_region|MODIFIER|RDN5-1-RDN25-2|RDN5-1-RDN25-2|intergenic_region|RDN5-1-RDN25-2|||n.460485delT||||||
+
+This variant on chromosome XII, position 460505 is an intergenic variant located less than 5Kb upstream of RDN37-1, RDN58-1, and RDN18-1 rRNAs, and 5Kb downstream of YLR154W-E, YLR154W-F, and YLR154C-G genes and RDN5-1, RDN25-2, RDN37-2, RDN58-2, and RDN18-2 rRNAs.
+
+chrXII 460505 G [A] A|upstream_gene_variant|MODIFIER|RDN37-1|RDN37-1|transcript|RDN37-1|rRNA||n.-2773C>T|||||2773|
+chrXII 460505 G [A] A|upstream_gene_variant|MODIFIER|RDN58-1|RDN58-1|transcript|RDN58-1|rRNA||n.-4934C>T|||||4934|
+chrXII 460505 G [A] A|upstream_gene_variant|MODIFIER|RDN18-1|RDN18-1|transcript|RDN18-1|rRNA||n.-2773C>T|||||2773|
+chrXII 460505 G [A] A|downstream_gene_variant|MODIFIER|YLR154W-E|YLR154W-E|transcript|YLR154W-E|protein_coding||c.*4869G>A|||||4869|
+chrXII 460505 G [A] A|downstream_gene_variant|MODIFIER|YLR154W-F|YLR154W-F|transcript|YLR154W-F|protein_coding||c.*4482G>A|||||4482|
+chrXII 460505 G [A] A|downstream_gene_variant|MODIFIER|RDN5-1|RDN5-1|transcript|RDN5-1|rRNA||n.*709G>A|||||709|
+chrXII 460505 G [A] A|downstream_gene_variant|MODIFIER|RDN25-2|RDN25-2|transcript|RDN25-2|rRNA||n.*418C>T|||||418|
+chrXII 460505 G [A] A|downstream_gene_variant|MODIFIER|RDN37-2|RDN37-2|transcript|RDN37-2|rRNA||n.*418C>T|||||418|
+chrXII 460505 G [A] A|downstream_gene_variant|MODIFIER|YLR154C-G|YLR154C-G|transcript|YLR154C-G|protein_coding||c.*2017C>T|||||2017|
+chrXII 460505 G [A] A|downstream_gene_variant|MODIFIER|RDN58-2|RDN58-2|transcript|RDN58-2|rRNA||n.*4046C>T|||||4046|
+chrXII 460505 G [A] A|downstream_gene_variant|MODIFIER|RDN18-2|RDN18-2|transcript|RDN18-2|rRNA||n.*4565C>T|||||4565|
+chrXII 460505 G [A] A|intergenic_region|MODIFIER|RDN5-1-RDN25-2|RDN5-1-RDN25-2|intergenic_region|RDN5-1-RDN25-2|||n.460505G>A||||||
+
+For the rest of these variants, the chromosome is not found, so the consequence cannot be determined.  
+
+chrM 2361 T [C] C||MODIFIER|||||||||||||ERROR_CHROMOSOME_NOT_FOUND
+chrM 3498 T [A] A||MODIFIER|||||||||||||ERROR_CHROMOSOME_NOT_FOUND
+chrM 3524 C [T] T||MODIFIER|||||||||||||ERROR_CHROMOSOME_NOT_FOUND
+chrM 3647 T [G] G||MODIFIER|||||||||||||ERROR_CHROMOSOME_NOT_FOUND
+chrM 6553 A [T] T||MODIFIER|||||||||||||ERROR_CHROMOSOME_NOT_FOUND
+chrM 9939 C [A] A||MODIFIER|||||||||||||ERROR_CHROMOSOME_NOT_FOUND
+chrM 9954 A [G] G||MODIFIER|||||||||||||ERROR_CHROMOSOME_NOT_FOUND
+chrM 12731 C [T] T||MODIFIER|||||||||||||ERROR_CHROMOSOME_NOT_FOUND
+chrM 13967 T [A] A||MODIFIER|||||||||||||ERROR_CHROMOSOME_NOT_FOUND
+chrM 13981 T [A] A||MODIFIER|||||||||||||ERROR_CHROMOSOME_NOT_FOUND
+chrM 16861 T [C] C||MODIFIER|||||||||||||ERROR_CHROMOSOME_NOT_FOUND
+chrM 17675 T [C] C||MODIFIER|||||||||||||ERROR_CHROMOSOME_NOT_FOUND
+chrM 20498 TAA [TAAA] TAAA||MODIFIER|||||||||||||ERROR_CHROMOSOME_NOT_FOUND
+chrM 20525 A [G] G||MODIFIER|||||||||||||ERROR_CHROMOSOME_NOT_FOUND
+chrM 20934 T [G] G||MODIFIER|||||||||||||ERROR_CHROMOSOME_NOT_FOUND
+chrM 22175 CT [AC] AC||MODIFIER|||||||||||||ERROR_CHROMOSOME_NOT_FOUND
+chrM 22195 T [C] C||MODIFIER|||||||||||||ERROR_CHROMOSOME_NOT_FOUND
+chrM 22201 A [G] G||MODIFIER|||||||||||||ERROR_CHROMOSOME_NOT_FOUND
+chrM 26386 T [C] C||MODIFIER|||||||||||||ERROR_CHROMOSOME_NOT_FOUND
+chrM 26539 C [T] T||MODIFIER|||||||||||||ERROR_CHROMOSOME_NOT_FOUND
+chrM 27770 C [T] T||MODIFIER|||||||||||||ERROR_CHROMOSOME_NOT_FOUND
+chrM 28886 G [A] A||MODIFIER|||||||||||||ERROR_CHROMOSOME_NOT_FOUND
+chrM 29170 C [T] T||MODIFIER|||||||||||||ERROR_CHROMOSOME_NOT_FOUND
+chrM 36563 G [A] A||MODIFIER|||||||||||||ERROR_CHROMOSOME_NOT_FOUND
+chrM 36588 A [G] G||MODIFIER|||||||||||||ERROR_CHROMOSOME_NOT_FOUND
+chrM 36677 A [T] T||MODIFIER|||||||||||||ERROR_CHROMOSOME_NOT_FOUND
+chrM 36689 G [A] A||MODIFIER|||||||||||||ERROR_CHROMOSOME_NOT_FOUND
+chrM 36803 C [T] T||MODIFIER|||||||||||||ERROR_CHROMOSOME_NOT_FOUND
+chrM 37367 A [T] T||MODIFIER|||||||||||||ERROR_CHROMOSOME_NOT_FOUND
+chrM 37372 A [T] T||MODIFIER|||||||||||||ERROR_CHROMOSOME_NOT_FOUND
+chrM 37636 T [A] A||MODIFIER|||||||||||||ERROR_CHROMOSOME_NOT_FOUND
+chrM 37706 G [A] A||MODIFIER|||||||||||||ERROR_CHROMOSOME_NOT_FOUND
+chrM 37743 A [T] T||MODIFIER|||||||||||||ERROR_CHROMOSOME_NOT_FOUND
+chrM 38684 TAT [TAAT] TAAT||MODIFIER|||||||||||||ERROR_CHROMOSOME_NOT_FOUND
+chrM 39164 C [T] T||MODIFIER|||||||||||||ERROR_CHROMOSOME_NOT_FOUND
+chrM 39517 G [T] T||MODIFIER|||||||||||||ERROR_CHROMOSOME_NOT_FOUND
+chrM 40021 G [A] A||MODIFIER|||||||||||||ERROR_CHROMOSOME_NOT_FOUND
+chrM 40067 A [T] T||MODIFIER|||||||||||||ERROR_CHROMOSOME_NOT_FOUND
+chrM 40865 G [A] A||MODIFIER|||||||||||||ERROR_CHROMOSOME_NOT_FOUND
+chrM 40886 T [C] C||MODIFIER|||||||||||||ERROR_CHROMOSOME_NOT_FOUND
+chrM 40901 C [T] T||MODIFIER|||||||||||||ERROR_CHROMOSOME_NOT_FOUND
+chrM 40907 T [A] A||MODIFIER|||||||||||||ERROR_CHROMOSOME_NOT_FOUND
+chrM 41309 T [A] A||MODIFIER|||||||||||||ERROR_CHROMOSOME_NOT_FOUND
+chrM 41316 A [G] G||MODIFIER|||||||||||||ERROR_CHROMOSOME_NOT_FOUND
+chrM 41630 A [T] T||MODIFIER|||||||||||||ERROR_CHROMOSOME_NOT_FOUND
+chrM 41832 G [T] T||MODIFIER|||||||||||||ERROR_CHROMOSOME_NOT_FOUND
+chrM 41882 G [A] A||MODIFIER|||||||||||||ERROR_CHROMOSOME_NOT_FOUND
+chrM 42069 G [A] A||MODIFIER|||||||||||||ERROR_CHROMOSOME_NOT_FOUND
+chrM 42200 T [A] A||MODIFIER|||||||||||||ERROR_CHROMOSOME_NOT_FOUND
+chrM 42278 A [C] C||MODIFIER|||||||||||||ERROR_CHROMOSOME_NOT_FOUND
+chrM 42426 G [T] T||MODIFIER|||||||||||||ERROR_CHROMOSOME_NOT_FOUND
+chrM 42450 A [G] G||MODIFIER|||||||||||||ERROR_CHROMOSOME_NOT_FOUND
+chrM 43513 T [A] A||MODIFIER|||||||||||||ERROR_CHROMOSOME_NOT_FOUND
+chrM 44382 GTT [GT] GT||MODIFIER|||||||||||||ERROR_CHROMOSOME_NOT_FOUND
+chrM 44456 T [C] C||MODIFIER|||||||||||||ERROR_CHROMOSOME_NOT_FOUND
+chrM 44467 G [A] A||MODIFIER|||||||||||||ERROR_CHROMOSOME_NOT_FOUND
+chrM 44500 C [T] T||MODIFIER|||||||||||||ERROR_CHROMOSOME_NOT_FOUND
+chrM 44508 C [T] T||MODIFIER|||||||||||||ERROR_CHROMOSOME_NOT_FOUND
+chrM 51059 G [A] A||MODIFIER|||||||||||||ERROR_CHROMOSOME_NOT_FOUND
+chrM 51068 C [T] T||MODIFIER|||||||||||||ERROR_CHROMOSOME_NOT_FOUND
+chrM 54768 T [A] A||MODIFIER|||||||||||||ERROR_CHROMOSOME_NOT_FOUND
+chrM 54854 G [A] A||MODIFIER|||||||||||||ERROR_CHROMOSOME_NOT_FOUND
+chrM 54859 A [C] C||MODIFIER|||||||||||||ERROR_CHROMOSOME_NOT_FOUND
+chrM 56772 T [A] A||MODIFIER|||||||||||||ERROR_CHROMOSOME_NOT_FOUND
+chrM 56778 A [G] G||MODIFIER|||||||||||||ERROR_CHROMOSOME_NOT_FOUND
+chrM 58268 G [T] T||MODIFIER|||||||||||||ERROR_CHROMOSOME_NOT_FOUND
+chrM 58412 G [A] A||MODIFIER|||||||||||||ERROR_CHROMOSOME_NOT_FOUND
+chrM 59053 TAAAAAAAAAT [TAAAAAAAAT] TAAAAAAAAT||MODIFIER|||||||||||||ERROR_CHROMOSOME_NOT_FOUND
+chrM 59383 AA [ATA] ATA||MODIFIER|||||||||||||ERROR_CHROMOSOME_NOT_FOUND
+chrM 59794 A [T] T||MODIFIER|||||||||||||ERROR_CHROMOSOME_NOT_FOUND
+chrM 61881 G [A] A||MODIFIER|||||||||||||ERROR_CHROMOSOME_NOT_FOUND
+chrM 61903 C [T] T||MODIFIER|||||||||||||ERROR_CHROMOSOME_NOT_FOUND
+chrM 62466 A [T] T||MODIFIER|||||||||||||ERROR_CHROMOSOME_NOT_FOUND
+chrM 70942 A [C] C||MODIFIER|||||||||||||ERROR_CHROMOSOME_NOT_FOUND
+chrM 74415 GC [CA] CA||MODIFIER|||||||||||||ERROR_CHROMOSOME_NOT_FOUND
+chrM 75921 A [G] G||MODIFIER|||||||||||||ERROR_CHROMOSOME_NOT_FOUND
+chrM 79281 T [A] A||MODIFIER|||||||||||||ERROR_CHROMOSOME_NOT_FOUND
+chrM 79590 C [T] T||MODIFIER|||||||||||||ERROR_CHROMOSOME_NOT_FOUND
+chrM 79752 T [C] C||MODIFIER|||||||||||||ERROR_CHROMOSOME_NOT_FOUND
+chrM 80030 G [T] T||MODIFIER|||||||||||||ERROR_CHROMOSOME_NOT_FOUND
+chrM 85026 ATA [ATTA] ATTA||MODIFIER|||||||||||||ERROR_CHROMOSOME_NOT_FOUND
