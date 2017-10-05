@@ -1,0 +1,9 @@
+
+plink2 --vcf "BYxRM_segs_saccer3.bam.simplified.vcf" --id-delim "_" --pca 2 tabs --allow-extra-chr --mind
+./pcaplot.py plink.eigenvec pcaplot.png
+
+plink2 --vcf "BYxRM_segs_saccer3.bam.simplified.vcf" --id-delim "_" --freq --allow-extra-chr --mind
+./allelefreqplot.py plink.frq afplot.png
+
+plink2 --vcf "BYxRM_segs_saccer3.bam.simplified.vcf" --id-delim "_" --pheno "BYxRM_PhenoData.edited.txt" --linear --all-pheno --allow-extra-chr --mind --allow-no-sex
+./phenotypequa.py
