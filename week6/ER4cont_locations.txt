@@ -1,0 +1,2 @@
+The most common motif found in the ER4 control data seems to be the reverse complement of the motif found in the post-treatment ER4 data.
+This motif can be found anywhere along the peaks, although it is most commonly in the middle.
