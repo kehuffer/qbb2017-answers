@@ -1,0 +1,15 @@
+CTCF-containing fragment: 5C_938_XIC-3_FOR_0047, Coordinates: [99014523 99017988], Strongest CTCF-containing partner: 5C_938_XIC-3_REV_0021, Coordinates: [98887040 98894032], Enrichment: 2.50146
+CTCF-containing fragment: 5C_938_XIC-3_FOR_0087, Coordinates: [99132880 99146817], Strongest CTCF-containing partner: 5C_938_XIC-3_REV_0021, Coordinates: [98887040 98894032], Enrichment: 4.43816
+CTCF-containing fragment: 5C_938_XIC-3_FOR_0122, Coordinates: [99253548 99261921], Strongest CTCF-containing partner: 5C_938_XIC-3_REV_0040, Coordinates: [98985126 98989333], Enrichment: 4.44472
+CTCF-containing fragment: 5C_938_XIC-3_FOR_0168, Coordinates: [99404545 99422364], Strongest CTCF-containing partner: 5C_938_XIC-3_REV_1521, Coordinates: [103365838 103374008], Enrichment: 4.866
+CTCF-containing fragment: 5C_938_XIC-3_FOR_0496, Coordinates: [100387497 100388737], Strongest CTCF-containing partner: 5C_938_XIC-3_REV_0021, Coordinates: [98887040 98894032], Enrichment: 2.60163
+CTCF-containing fragment: 5C_938_XIC-3_FOR_0587, Coordinates: [100663880 100664700], Strongest CTCF-containing partner: 5C_938_XIC-3_REV_1441, Coordinates: [103151867 103154043], Enrichment: 2.41271
+CTCF-containing fragment: 5C_938_XIC-3_FOR_0629, Coordinates: [100812570 100820556], Strongest CTCF-containing partner: 5C_938_XIC-3_REV_0040, Coordinates: [98985126 98989333], Enrichment: 1.60091
+CTCF-containing fragment: 5C_938_XIC-3_FOR_0726, Coordinates: [101108892 101114516], Strongest CTCF-containing partner: 5C_938_XIC-3_REV_0021, Coordinates: [98887040 98894032], Enrichment: 1.89508
+CTCF-containing fragment: 5C_938_XIC-3_FOR_1160, Coordinates: [102309799 102319062], Strongest CTCF-containing partner: 5C_938_XIC-3_REV_1468, Coordinates: [103220529 103240295], Enrichment: 4.32642
+CTCF-containing fragment: 5C_938_XIC-3_REV_0021, Coordinates: [98887040 98894032], Strongest CTCF-containing partner: 5C_938_XIC-3_FOR_0087, Coordinates: [99132880 99146817], Enrichment: 4.43816
+CTCF-containing fragment: 5C_938_XIC-3_REV_0040, Coordinates: [98985126 98989333], Strongest CTCF-containing partner: 5C_938_XIC-3_FOR_0122, Coordinates: [99253548 99261921], Enrichment: 4.44472
+CTCF-containing fragment: 5C_938_XIC-3_REV_0088, Coordinates: [99146818 99151799], Strongest CTCF-containing partner: 5C_938_XIC-3_FOR_0122, Coordinates: [99253548 99261921], Enrichment: 4.1334
+CTCF-containing fragment: 5C_938_XIC-3_REV_1441, Coordinates: [103151867 103154043], Strongest CTCF-containing partner: 5C_938_XIC-3_FOR_1160, Coordinates: [102309799 102319062], Enrichment: 3.26003
+CTCF-containing fragment: 5C_938_XIC-3_REV_1468, Coordinates: [103220529 103240295], Strongest CTCF-containing partner: 5C_938_XIC-3_FOR_1160, Coordinates: [102309799 102319062], Enrichment: 4.32642
+CTCF-containing fragment: 5C_938_XIC-3_REV_1521, Coordinates: [103365838 103374008], Strongest CTCF-containing partner: 5C_938_XIC-3_FOR_0168, Coordinates: [99404545 99422364], Enrichment: 4.866

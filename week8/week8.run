@@ -1,0 +1,6 @@
+hifive 5c-complete express -P week8 -C ./Nora_ESC_male_E14.counts ./Nora_Primers.bed 
+
+hifive 5c-heatmap ./week8.fcp week8_frag.heat -i week8_frag.png -F npz -a compact -b 0 -d fragment
+hifive 5c-heatmap ./week8.fcp week8_enrich.heat -i week8_enrich.png -F npz -a compact -b 0 -d enrichment
+
+./week8_python.py ctcf_peaks.tsv Nora_Primers.bed > week8_output.txt
