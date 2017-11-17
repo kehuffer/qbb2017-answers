@@ -1,0 +1,5 @@
+1	membrane (GO:0016020)	4	7.7%	11.1%
+2	macromolecular complex (GO:0032991)	5	9.6%	13.9%
+3	cell part (GO:0044464)	16	30.8%	44.4%
+4	organelle (GO:0043226)	9	17.3%	25.0%
+5	extracellular region (GO:0005576)	2	3.8%	5.6%

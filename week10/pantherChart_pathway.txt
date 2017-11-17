@@ -1,0 +1,11 @@
+1	Pyruvate metabolism (P02772)	1	1.9%	6.3%
+2	Gonadotropin-releasing hormone receptor pathway (P06664)	1	1.9%	6.3%
+3	Integrin signalling pathway (P00034)	1	1.9%	6.3%
+4	Huntington disease (P00029)	4	7.7%	25.0%
+5	Heterotrimeric G-protein signaling pathway-Gq alpha and Go alpha mediated pathway (P00027)	1	1.9%	6.3%
+6	Transcription regulation by bZIP transcription factor (P00055)	1	1.9%	6.3%
+7	Heterotrimeric G-protein signaling pathway-Gi alpha and Gs alpha mediated pathway (P00026)	2	3.8%	12.5%
+8	FGF signaling pathway (P00021)	1	1.9%	6.3%
+9	EGF receptor signaling pathway (P00018)	1	1.9%	6.3%
+10	Oxidative stress response (P00046)	1	1.9%	6.3%
+11	Cytoskeletal regulation by Rho GTPase (P00016)	2	3.8%	12.5%

@@ -1,0 +1,14 @@
+1	transporter (PC00227)	1	1.9%	3.3%
+2	hydrolase (PC00121)	5	9.6%	16.7%
+3	oxidoreductase (PC00176)	1	1.9%	3.3%
+4	cell junction protein (PC00070)	1	1.9%	3.3%
+5	enzyme modulator (PC00095)	3	5.8%	10.0%
+6	lyase (PC00144)	1	1.9%	3.3%
+7	transferase (PC00220)	2	3.8%	6.7%
+8	transcription factor (PC00218)	2	3.8%	6.7%
+9	nucleic acid binding (PC00171)	3	5.8%	10.0%
+10	receptor (PC00197)	2	3.8%	6.7%
+11	defense/immunity protein (PC00090)	1	1.9%	3.3%
+12	calcium-binding protein (PC00060)	2	3.8%	6.7%
+13	cytoskeletal protein (PC00085)	2	3.8%	6.7%
+14	signaling molecule (PC00207)	4	7.7%	13.3%

@@ -1,0 +1,7 @@
+1	translation regulator activity (GO:0045182)	1	1.9%	3.0%
+2	binding (GO:0005488)	10	19.2%	30.3%
+3	receptor activity (GO:0004872)	2	3.8%	6.1%
+4	structural molecule activity (GO:0005198)	2	3.8%	6.1%
+5	signal transducer activity (GO:0004871)	1	1.9%	3.0%
+6	catalytic activity (GO:0003824)	14	26.9%	42.4%
+7	transporter activity (GO:0005215)	3	5.8%	9.1%

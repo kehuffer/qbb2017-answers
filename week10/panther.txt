@@ -1,0 +1,38 @@
+PANTHER GENE INFORMATION   
+Gene Symbol(s):	Slc52a3
+Organism:	Mus musculus
+View Gene in Tree	
+Tree	Reduced Tree  
+Tree	Reduced Tree
+Gene Name:	Solute carrier family 52, riboflavin transporter, member 3
+Gene ID:	MGI:1916948
+Protein ID:	Q9D6X5
+Alternate Ids:	
+74196085(GI)	S52A3(Synonym)
+BAC26290(EMBL-CDS)	ENSMUSG00000027463(Ensembl)
+69698(GeneID)	CH466551(EMBL)
+Q3U328(AltAccession)	Mm.258262(UniGene)
+MGI:1916948(MGI)	S52A3_MOUSE(UniProtKB-ID)
+Slc52a3(Symbol)
+Show All
+
+PANTHER CLASSIFICATION
+PANTHER Family:	FAMILY NOT NAMED (PTHR12929) 
+PANTHER Subfamily:	SOLUTE CARRIER FAMILY 52, RIBOFLAVIN TRANSPORTER, MEMBER 3 (PTHR12929:SF4)  
+PANTHER GO-slim Molecular Function:	G-protein coupled receptor activity
+
+PANTHER GO-slim Biological Process:	
+PANTHER GO-slim Cellular Component:	
+PANTHER protein class:	G-protein coupled receptor
+
+Pathway Categories:	No pathway information available 
+GENE ONTOLOGY DATABASE ANNOTATIONS      Close
+GO MF Complete:	protein binding, riboflavin transporter activity
+GO BP Complete:	sensory perception of sound, riboflavin transport, cellular response to heat, transport
+GO CC Complete:	integral component of plasma membrane, membrane, integral component of membrane, plasma membrane
+
+================================
+
+Riboflavin is a B vitamin that must be transported into the body.  It is used as a coenzyme for several flavoprotein enzyme reactions.  It makes sense that this would be important for mouse development, so the riboflavin transporter would plan an important role.
+
+Additionally, this protein’s role as a G-protein-coupled receptor suggests its importance in signaling and signal amplification, something that is important during development. Many of the genes in its kmeans group are also identified by PANTHER as related to signaling pathways. Further, many of these genes are classified as having catalytic molecular function, as well as roles in cellular processes, developmental processes, and metabolic processes.  These processes are especially important during development.
