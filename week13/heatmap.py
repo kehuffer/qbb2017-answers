@@ -17,10 +17,10 @@ columns = ["SRR492183", "SRR492189", "SRR492194", "SRR492186", "SRR492190", "SRR
 data = data[columns]
 data_array = data.as_matrix()
 
-#link_matrix_obs = linkage(data_array,'average')
+link_matrix_obs = linkage(data_array,'average')
 link_matrix_type = linkage(np.transpose(data_array),'average')
 
-#cluster_obs = leaves_list(link_matrix_obs)
+cluster_obs = leaves_list(link_matrix_obs)
 cluster_type = leaves_list(link_matrix_type)
 
 rows = ["Staphylococcus haemolyticus", "Leuconostoc citreum", "Staphylococcus lugdunensis", "Enterococcus faecalis", "Cutibacterium avidum", "Staphylococcus epidermidis", "Staphylococcus aureus", "Anaerococcus prevotii"]
@@ -31,7 +31,7 @@ plt.style.use('ggplot')
 
 X = data_array[:,cluster_type]
 Y = data_array[cluster_obs,:]
-#ordered_labelsx = [columns[i] for i in cluster_type]
+ordered_labelsx = [columns[i] for i in cluster_type]
 ordered_labelsy = [rows[i] for i in cluster_obs]
 
 #============================================================#
