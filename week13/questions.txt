@@ -1,0 +1,13 @@
+Question 1: Briefly comment on the trends you see in the gut microbiota throughout the first week.
+
+Question 2: What metrics in the contigs can we use to group them together?
+
+Question 3: How many bins did you get? Roughly what percentage of the assembly do they represent? Do you think the sizes of each bin look about right based on what you know about the size of prokaryotic genomes? How would you estimate how complete and how contaminated each bins is?
+8 bins, representing 
+contamination: determine whether the nodes that have been grouped together all have the same KRAKEN organism assignment
+completeness: if whole genome size is known for the organism, determine size of binned contigs and compare to full genome
+
+Question 4: This approach to classification is fast, but also not very quantitative. Propose one method to more robustly estimate the taxonomy of a metagenomic bin.
+
+Question 5: Compare the results of the individual genome abundance analysis to the conclusions you derived from looking at the read taxonomy distributions. Do they agree with each other? What is different?
+
