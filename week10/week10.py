@@ -46,6 +46,10 @@ late_avg = np.average(X[:,0:2], axis = 1)
 early_late_avg = np.stack((early_avg, late_avg), axis = 1)
 #print scipy.stats.ttest_ind(early_late_avg, axis = 1)
 ratio = (data_array[:,0] + data_array[:,4]) / (data_array[:,1] + data_array[:,2])
+early = np.column_stack((data_array[:,0], data_array[:,4]))
+late = np.column_stack((data_array[:,1], data_array[:,2]))
+print early
+print late
 index_min = min(xrange(len(ratio)), key=ratio.__getitem__)
 rel_genes = []
 sig_ratio_gene = []
